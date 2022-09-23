@@ -17,6 +17,7 @@ def speak(text):
     engine.say(text)
     engine.runAndWait()
 
+A = 2
 
 # Reconhecimento de fala
 
